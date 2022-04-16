@@ -1,0 +1,11 @@
+.navbar, .container-fluid{
+    padding: 0px !important;
+}
+
+.active ,.nav-link:hover {
+    background-color: rgb(24, 151, 255);
+}
+
+.nav-link {
+    padding: 10px 30px !important;
+}
