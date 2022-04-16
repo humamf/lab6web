@@ -222,3 +222,5 @@ Tampialnnya seperti berikut.
 ```
 
 ![Footer](img/footer.jpeg)
+
+# Sekian Terimakasih
