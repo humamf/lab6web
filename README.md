@@ -85,7 +85,7 @@ Tambahkan kode seperti berikut.
 
 Tampilannya seperti berikut.
 
-![Navbar](img/nav.png)
+![Navbar](lab6_css_framework/img/nav.png)
 
 ### 2. Membuat section description
 
@@ -100,7 +100,7 @@ Tampilannya seperti berikut.
 
 Tampilannya seperti berikut.
 
-![Section](img/section.png)
+![Section](lab6_css_framework/img/section.png)
 
 ### 3. Membuat Content I (Card Group)
 
@@ -146,7 +146,7 @@ Tampilannya seperti berikut.
 
 Tampilannya seperti berikut. 
 
-![Card](img/card.png)
+![Card](lab6_css_framework/img/card.png)
 
 ### 4. Membuat Content II
 
@@ -182,7 +182,7 @@ Tampilannya seperti berikut.
 
 Tampilannya seperti berikut.
 
-![Content2](img/content2.png)
+![Content2](lab6_css_framework/img/content2.png)
 
 ### 5. Membuat Sidebar
 
@@ -213,7 +213,7 @@ Tampilannya seperti berikut.
 
 Tampialnnya seperti berikut. 
 
-![Widget](img/widget.png)
+![Widget](lab6_css_framework/img/widget.png)
 
 ### 6. Membuat Footer
 
@@ -221,6 +221,6 @@ Tampialnnya seperti berikut.
 <footer class="bg-dark text-white p-3 text-center">&copy; 2022 - Universitas Pelita Bangsa | Humam fathurrahman</footer>
 ```
 
-![Footer](img/footer.jpeg)
+![Footer](lab6_css_framework/img/footer.jpeg)
 
 # Sekian Terimakasih
